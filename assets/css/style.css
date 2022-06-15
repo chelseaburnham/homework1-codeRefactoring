@@ -138,7 +138,8 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+/* deleted class and changed to id */
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -147,7 +148,8 @@ p {
     color: #ffffff;
 }
 
-.online-reputation-management {
+/* deleted class and changed to id */
+#online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -156,7 +158,8 @@ p {
     color: #ffffff;
 }
 
-.social-media-marketing {
+/* deleted class and changed to id */
+#social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -165,29 +168,35 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+/* deleted class and changed to id */
+#search-engine-optimization img {
     max-height: 200px;
 }
 
-.online-reputation-management img {
+/* deleted class and changed to id */
+#online-reputation-management img {
     max-height: 200px;
 }
 
-.social-media-marketing img {
+/* deleted class and changed to id */
+#social-media-marketing img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+/* deleted class and changed to id */
+#search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
+/* deleted class and changed to id */
+#online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.social-media-marketing h2 {
+/* deleted class and changed to id */
+#social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
