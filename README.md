@@ -10,7 +10,7 @@ To install this project, fork the repository to your Github account. <br />
 Once on your Github account, clone the repository to your local machine. 
 
 ##  Usage
-Suitable for learning how to organize HTML using semantic elements. See screenshot below: 
+Suitable for learning how to organize HTML using semantic elements. See screenshot below: <br />
 ![Before](./assets/images/Screenshot2.png)
 ![After](./assets/images/Screenshot.png)
 
